@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TweetAssignment": {
+      "commandName": "Project",
+      "commandLineArgs": "\"..\\..\\..\\user.txt\" \"..\\..\\..\\tweet.txt\""
+    }
+  }
+}

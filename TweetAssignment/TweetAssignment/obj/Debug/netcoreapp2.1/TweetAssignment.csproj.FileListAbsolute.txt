@@ -1,0 +1,21 @@
+C:\Users\Fabian\Documents\Visual Studio 2017\Projects\TweetAssignment\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.deps.json
+C:\Users\Fabian\Documents\Visual Studio 2017\Projects\TweetAssignment\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.runtimeconfig.json
+C:\Users\Fabian\Documents\Visual Studio 2017\Projects\TweetAssignment\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.runtimeconfig.dev.json
+C:\Users\Fabian\Documents\Visual Studio 2017\Projects\TweetAssignment\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.dll
+C:\Users\Fabian\Documents\Visual Studio 2017\Projects\TweetAssignment\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.pdb
+C:\Users\Fabian\Documents\Visual Studio 2017\Projects\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\Visual Studio 2017\Projects\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.AssemblyInfoInputs.cache
+C:\Users\Fabian\Documents\Visual Studio 2017\Projects\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.AssemblyInfo.cs
+C:\Users\Fabian\Documents\Visual Studio 2017\Projects\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.dll
+C:\Users\Fabian\Documents\Visual Studio 2017\Projects\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.pdb
+H:\TweetAssignment\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.deps.json
+H:\TweetAssignment\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.runtimeconfig.json
+H:\TweetAssignment\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.runtimeconfig.dev.json
+H:\TweetAssignment\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.dll
+H:\TweetAssignment\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.pdb
+H:\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.csprojAssemblyReference.cache
+H:\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.csproj.CoreCompileInputs.cache
+H:\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.AssemblyInfoInputs.cache
+H:\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.AssemblyInfo.cs
+H:\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.dll
+H:\TweetAssignment\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.pdb
